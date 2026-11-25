@@ -1,0 +1,6 @@
+{
+  "name": "UMAIR STUDIO",
+  "description": "UMAIR STUDIO is a complete Minecraft Java 1.21+ encyclopedia featuring all enchantments, an interactive 3x3 crafting recipe inspector, items, mobs, biomes, and 19 survival and technical guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
